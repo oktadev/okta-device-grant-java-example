@@ -20,7 +20,7 @@ Please read [Authenticate from the Command Line with Java][blog-url] for a tutor
 Clone the project:
 
 ```bash
-git clone https://github.com/oktadeveloper/okta-device-grant-java-example.git
+git clone https://github.com/oktadev/okta-device-grant-java-example.git
 cd okta-device-grant-java-example
 ```
 
