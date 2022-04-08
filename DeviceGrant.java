@@ -16,7 +16,7 @@ import java.util.Map;
 
 import static java.util.stream.Collectors.joining;
 
-public class DeviceGrantApp {
+public class DeviceGrant {
 
     public static void main(String[] args) throws Exception {
 
