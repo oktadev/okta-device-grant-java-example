@@ -52,4 +52,4 @@ Please post any questions as comments on [this blog post][blog-url], or visit ou
 
 Apache 2.0, see [LICENSE](LICENSE).
 
-[blog-url]: http://developer.okta.com/blog/2022/04/00/tbd
+[blog-url]: https://developer.okta.com/blog/2022/04/11/java-cli-device-grant
